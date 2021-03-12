@@ -9,7 +9,7 @@
 }
 
 /* Style the links inside the navigation bar */
-ul .topnav {
+ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
